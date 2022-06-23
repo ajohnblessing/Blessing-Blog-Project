@@ -8,12 +8,12 @@
  - About
  
  ### Home
- This is the homepage of the website which contains the introduction of the blog and its content.
+ This is the homepage of the website which contains the introduction and content of the blog.
  
  ### Blog
  This is where all the activities of the blog are presnt.
  
  ### About
- This is where the team incharge of the blog post are recognised. Some bios about them is present on the about.
+ This is where the team incharge of the blog post are recognised. Some bios about them is present in the about.
  
-  ``` HTML file contains the HTML code CSS file contains the CSS file```
+  ``` HTML file contains all the HTML code while the CSS file contains all the CSS file```
