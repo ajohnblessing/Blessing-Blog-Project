@@ -1,8 +1,8 @@
-# Blessing-Blog-Project
- This was my first **Udacity** project which i built using just HTML and CSS code as that was the project rubrics.
+# Blessing Blog Project
+ This was my first **Udacity** project where i built a blog website using just HTML and CSS code as that was the project rubrics.
  
  ## Dammy Blog Post
- The website was named _DAMMY'S LOVE BLOG_ which talks about everyday relationship life. it has three branches:
+ The website was named **_DAMMY'S LOVE BLOG_** which talks about everyday relationship life. it has three branches:
  - Home
  - Blog
  - About
